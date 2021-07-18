@@ -5,6 +5,7 @@ using UnityEngine;
 public class Begin_Script : MonoBehaviour
 {
     GameObject gameObject;
+    GameObject gameObject;
     // Start is called before the first frame update
     void Start()
     {
