@@ -345,7 +345,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1570833676}
-  m_Text: Hello World
+  m_Text: Out  World
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
