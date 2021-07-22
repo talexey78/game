@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class Begin_Script : MonoBehaviour
 {
+	var String string;
+
 
     // Start is called before the first frame update
     void Start()
     {
+
         
     }
 
